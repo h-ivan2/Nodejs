@@ -1,0 +1,13 @@
+{
+  "name": "ivan-data",
+  "version": "1.0.1",
+  "description": "A js package that creates folder if not existing creates file writes in the file and then reads the contents of the file ",
+  "main": "chatgptwork.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["directory", "create-file" , "create-folder" , "read-file" , "nodejs","filesystem"],
+  "author": "Hirwa Yvan",
+  "license": "ISC",
+  "type": "commonjs"
+}
