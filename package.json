@@ -6,8 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["directory", "create-file", "create-folder", "read-file", "nodejs", "filesystem"],
+  "keywords": [
+    "directory",
+    "create-file",
+    "create-folder",
+    "read-file",
+    "nodejs",
+    "filesystem"
+  ],
   "author": "Hirwa Yvan",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "@types/express": "^5.0.6",
+    "express-validator": "^7.3.1"
+  }
 }
